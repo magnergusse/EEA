@@ -1,1 +1,1 @@
-# EEA
+# Engenharia de Estruturas Aeroespaciais
